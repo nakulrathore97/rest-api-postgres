@@ -7,6 +7,7 @@ The application serves a REST API for a PostgreSQL database using Node.js
 ### Prerequisites
 
 [npm](https://www.npmjs.com/)
+
 [PosgreSQL](https://www.postgresql.org/)
 
 ### Installing
