@@ -12,7 +12,7 @@ The application serves a REST API for a PostgreSQL database using Node.js
 
 ### Installing
 
-The dependicies can be resolved using 
+The dependencies can be resolved using 
 
 ```
 npm init
