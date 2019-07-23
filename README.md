@@ -53,6 +53,10 @@ node postgresql/server.js
 ```
 By default, the app listens on port 9999.
 
+The API supports the following calls: 
+* GET: /customer - Returns a list of all customers.
+* GET: /customer/:customerId - Returns a single customer
+
 ## Built With
 
 * [resquel](https://github.com/formio/resquel) - An express library
